@@ -6,7 +6,7 @@ This chatbot aims to answer basic questions about Blockchain using Deep Learning
 
 ## How to use ?
 
-I'm using Google Colab for this project. Each time you disconnect from Colab your files and datas are delete, for this reason a quick set up is needed before using my Chatbot:
+I'm using Google Colab for this project and each time you disconnect from Colab your files and datas are delete. For this reason a quick set up is require before using my Chatbot:
 
 - Download `files.zip` of this repo on your computer.
 - Open `Chatbot.ipynb` on Google Colab.
