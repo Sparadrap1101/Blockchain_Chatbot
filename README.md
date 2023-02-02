@@ -6,10 +6,10 @@ This chatbot aims to answer basic questions about Blockchain using Deep Learning
 
 ## How to use ?
 
-- Open `Chatbot.ipynb` on Google Colab
-- Add `intents.json` on files on the left in Colab
-- If you want to train the model by yourself just run the notebook (can be long)
-- If you want to use the model already trained add the `model.tflearn` on files in Colab
-- Just run and enjoy!
+I'm using Google Colab for this project. Each time you disconnect from Colab your files and datas are delete, for this reason a quick set up is needed before using my Chatbot:
 
-You can find and download `intents.json` and `model.tflearn` files in this repo.
+- Download `files.zip` of this repo on your computer.
+- Open `Chatbot.ipynb` on Google Colab.
+- Unzip `files.zip` on your computer.
+- In Colab, add unziped files (`intents.json`, `checkpoint`, `model.tflearn.data-00000-of-00001`, `model.tflearn.index` & `model.tflearn.meta`. See images below).
+- Then run and enjoy!
