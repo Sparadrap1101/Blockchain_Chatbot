@@ -11,5 +11,5 @@ I'm using Google Colab for this project and each time you disconnect from Colab 
 - Download `files.zip` file of this repo on your computer.
 - Open `Chatbot.ipynb` on Google Colab.
 - Unzip `files.zip` on your computer.
-- In Colab, add unzipped files (`dataset.json`, `checkpoint`, `model.tflearn.data-00000-of-00001`, `model.tflearn.index`, `model.tflearn.meta` & `data.pickle`. See images below).
+- In Colab, add unzipped files (`dataset.json`, `checkpoint`, `model.tflearn.data-00000-of-00001`, `model.tflearn.index`, `model.tflearn.meta` & `data.pickle`).
 - Then run and enjoy!
